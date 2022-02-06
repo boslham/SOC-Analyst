@@ -1,2 +1,2 @@
 # SOC-Analyst
-The ressources for SOC SOC Analyst
+resources needed by soc analyst
